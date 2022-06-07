@@ -1,0 +1,61 @@
+{
+  "name": "Kava Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/jupiterswap/tokens/main/KAVA.png",
+  "keywords": [],
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 0
+  },
+  "timestamp": "2022-06-07T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 2222,
+      "address": "0xAf6E763D021703bDe427b5Ac94524dB213D47f1c",
+      "decimals": 18,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xa2c535EBF7A48572F61F9273E8dBF61a0A79610D",
+      "decimals": 18,
+      "name": "RUBY CACH",
+      "symbol": "RUBY",
+      "logoURI": "https://raw.githubusercontent.com/jupiterswap/tokens/main/assets/0xa2c535EBF7A48572F61F9273E8dBF61a0A79610D/logo_24.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xa2c535EBF7A48572F61F9273E8dBF61a0A79610D",
+      "decimals": 18,
+      "name": "Wrapped KAVA",
+      "symbol": "WKAVA",
+      "logoURI": "https://raw.githubusercontent.com/jupiterswap/tokens/main/KAVA.png"
+    },
+    {
+      "chainId": 2221,
+      "address": "0xAf6E763D021703bDe427b5Ac94524dB213D47f1c",
+      "decimals": 18,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
+    },
+    {
+      "chainId": 2221,
+      "address": "0x3ee95adfc0b77364A097D6A3BdEEAAbe52cCE74c",
+      "decimals": 18,
+      "name": "Wrapped KAVA",
+      "symbol": "WKAVA",
+      "logoURI": "https://raw.githubusercontent.com/junta/tokenlist/main/KAVA.png"
+    },
+    {
+      "chainId": 2221,
+      "address": "0x9Cf319DD8Af13aEdB01b8aC5eDA86FB7B15341EE",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
+    }
+  ]
+}
