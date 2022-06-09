@@ -11,7 +11,15 @@
   "tokens": [
     {
       "chainId": 2222,
-      "address": "0xAf6E763D021703bDe427b5Ac94524dB213D47f1c",
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "decimals": 18,
+      "name": "DAI Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
       "decimals": 18,
       "name": "USD Coin",
       "symbol": "USDC",
