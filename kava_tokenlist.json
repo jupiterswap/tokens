@@ -20,7 +20,7 @@
     {
       "chainId": 2222,
       "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
-      "decimals": 18,
+      "decimals": 6,
       "name": "USD Coin",
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
