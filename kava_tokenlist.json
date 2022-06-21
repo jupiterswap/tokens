@@ -4,7 +4,7 @@
   "keywords": [],
   "version": {
     "major": 1,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "timestamp": "2022-06-07T12:00:00+00:00",
@@ -51,7 +51,7 @@
     },
     {
       "chainId": 2222,
-      "address": "0xa2c535EBF7A48572F61F9273E8dBF61a0A79610D",
+      "address": "0xCa7350Ed65c2fC90A9DBF2D15C75E80EA91aB1c1",
       "decimals": 18,
       "name": "RUBY CACH",
       "symbol": "RUBY",
