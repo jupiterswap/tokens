@@ -52,7 +52,7 @@
     {
       "chainId": 2222,
       "address": "0xCa7350Ed65c2fC90A9DBF2D15C75E80EA91aB1c1",
-      "decimals": 18,
+      "decimals": 6,
       "name": "RUBY CACH",
       "symbol": "RUBY",
       "logoURI": "https://raw.githubusercontent.com/jupiterswap/tokens/main/assets/0xa2c535EBF7A48572F61F9273E8dBF61a0A79610D/logo_24.png"
