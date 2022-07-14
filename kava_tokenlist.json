@@ -3,7 +3,7 @@
   "logoURI": "https://raw.githubusercontent.com/jupiterswap/tokens/main/KAVA.png",
   "keywords": [],
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
@@ -72,6 +72,14 @@
       "name": "Wrapped KAVA",
       "symbol": "WKAVA",
       "logoURI": "https://raw.githubusercontent.com/jupiterswap/tokens/main/KAVA.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xAB4E4BbB6D207B341cb5edBFa497d17FF5Afa4d4",
+      "decimals": 18,
+      "name": "Jupiter Token",
+      "symbol": "JPT",
+      "logoURI": "https://raw.githubusercontent.com/jupiterswap/tokens/main/assets/0xAB4E4BbB6D207B341cb5edBFa497d17FF5Afa4d4/logo_24.png"
     },
     {
       "chainId": 2221,
